@@ -28,7 +28,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "libphonenumber-js": "^1.10.12",
+    "libphonenumber-js": "^1.10.36",
     "vue": "^3.2.47"
   },
   "files": [
